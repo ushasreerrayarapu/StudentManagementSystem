@@ -1,0 +1,13 @@
+com\platformcommons\StudentManagementApplication.class
+com\platformcommons\model\Course.class
+com\platformcommons\controller\CourseController.class
+com\platformcommons\repository\CourseRepository.class
+com\platformcommons\controller\AdminController.class
+com\platformcommons\repository\StudentRepository.class
+com\platformcommons\service\StudentService.class
+Swagger\SwaggerConfig.class
+com\platformcommons\controller\StudentController.class
+com\platformcommons\model\Address.class
+com\platformcommons\DTO\StudentProfileDTO.class
+com\platformcommons\model\Student.class
+com\platformcommons\service\CourseService.class
