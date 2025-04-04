@@ -21,7 +21,7 @@ This is a Spring Boot-based Student Management System built using:
 2. Navigate to the project folder.
 3. Run the application using: mvn spring-boot:run or run 
 4. Access Swagger UI at: http://localhost:8080/swagger-ui.html
-5. Can test all APIs via swagger
+5. Can test all APIs via swagger(student CRUD, course, search)
 
 Folder Structure
 controller/ - REST Controllers
